@@ -1,0 +1,1 @@
+CREATE DATABASE Banco_de_dados
